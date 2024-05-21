@@ -1,0 +1,19 @@
+{
+  "name": "projeto_bikcraft",
+  "version": "1.0.0",
+  "description": "### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
