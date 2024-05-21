@@ -1,6 +1,6 @@
 # projeto_bikcraft
 
-# RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
+## RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 
 ID0 - Prototipa interfaces adaptáveis para no mínimo os tamanhos de tela mobile e desktop, usando ferramentas de design como Figma, Quant UX ou Sketch.
 
